@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+}
+
+h3, p{
+    margin: 1px;
+}
+h1{
+    color: rgb(3, 121, 3);
+    font-size:xx-large;
+}
+h2{
+    color: white;
+}
+body{
+    background-color: rgb(3, 3, 100);
+}
+p{
+    color: white;
+}
+h3{color: white;
+}
+a{
+  color: red;  
+}
+footer{
+    background-color: rgb(1, 1, 37);
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+}
