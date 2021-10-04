@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(3, 3, 99);
+}
+h1{
+    color: white;
+    font: size 64px;
+    font: bolder;
+    }
+    p{
+        color: white;
+        
+    }
+    h2{
+        color: green;
+        font: size 50px;
+    }
+    h3{
+        color: white;
+        font: size 40px;
+    }
+    address{
+        color: red;
+        font: size 30px;
+    }
+
+
